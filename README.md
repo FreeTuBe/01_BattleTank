@@ -4,3 +4,4 @@ An open-world head to head tank fight with simple AI, terrain, and advanced cont
 
 ## Lecture List:
 * BT01-Intro
+* BTO2-Setting up a GitHub repo
