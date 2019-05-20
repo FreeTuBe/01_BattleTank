@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"C:/Users/Frederico/Documents/repo/01_BattleTank/BattleTank/.vs": true,
+		"C:/Users/Frederico/Documents/repo/01_BattleTank/BattleTank/.vscode": true,
+		"C:/Users/Frederico/Documents/repo/01_BattleTank/BattleTank/Content": true,
+		"C:/Users/Frederico/Documents/repo/01_BattleTank/BattleTank/Intermediate": true,
+		"C:/Users/Frederico/Documents/repo/01_BattleTank/BattleTank/Saved": true
+	}
+}
